@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">E ai, sou o Kevin isso é um  poco sobre o que eu programo e gosto:</h1>
+<h1 align="left">E ai, sou o Kevin isso é um  pouco sobre o que eu programo e gosto:</h1>
 
 ###
 
