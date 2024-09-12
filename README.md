@@ -51,12 +51,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ4ZGMzYWlxdXE1OHJocHE1emd1ZXJzNzB4MmliYzVlaXE1bXZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/78ePzLB2mNQ7C/giphy.gif"  />
 </div>
 
